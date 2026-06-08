@@ -10,19 +10,21 @@ Political science background. I work on personal AI ownership and narrative — 
 
 ---
 
-## Small tools (local-first)
+## Open tools (contributions welcome)
 
-Two paired experiments from my voice-memo pipeline — if they help you, use them; if not, ignore them.
+Consolidation-layer OSS — person-country border + interior glossary. Built so measurable crossings secure agency without centralizing it. Happens with or without me; PRs welcome.
 
 | Repo | What it does |
 |------|----------------|
-| [person-borders](https://github.com/gor-agi/person-borders) | Inspect exports before they cross your border — person-as-country, not platform guardrails |
-| [living-glossary](https://github.com/gor-agi/living-glossary) | Propose definitions from your transcripts — alphabet layer before any AI shares your reality |
+| [person-borders](https://github.com/gor-agi/person-borders) | Border customs + trade value records at machine crossings |
+| [living-glossary](https://github.com/gor-agi/living-glossary) | Living definitions from your thinking — alphabet layer before AI shares your reality |
 
-Borders control what **crosses out**. Glossary controls what things **mean inside**. Both are MIT, CLI-only, no hosted service.
+Borders: what **crosses out**. Glossary: what things **mean inside**. Both MIT, CLI-only, local-first.
 
-Example pattern write-up: [Clarification Architecture](https://github.com/gor-agi/living-glossary/blob/main/examples/CLARIFICATION_ARCHITECTURE.md)
+Pattern write-up: [Clarification Architecture](https://github.com/gor-agi/living-glossary/blob/main/examples/CLARIFICATION_ARCHITECTURE.md) · Trade value direction: [TRADE_VALUE.md](https://github.com/gor-agi/person-borders/blob/main/docs/TRADE_VALUE.md)
 
 ---
 
-Everything else here is operator setup tied to my own machines — not meant as a showcase.
+## Private
+
+Everything else on this account is operator setup (clients, deployment, vault) — not a showcase. Staying private.
