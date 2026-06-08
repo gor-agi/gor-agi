@@ -2,18 +2,27 @@
 
 Independent researcher · [CRE](https://x.com/MaysonFreeman) · Los Angeles
 
-Political science background. I work on questions around personal AI ownership and narrative — mostly as notes and small home-lab experiments, not lab-scale infrastructure.
+Political science background. I work on personal AI ownership and narrative — mostly as notes and small home-lab experiments, not lab-scale infrastructure.
 
 **Public writing:** [The Narrative of the Narratives](https://x.com/MaysonFreeman/status/2004751960390451420) (Dec 2025, @MaysonFreeman)
 
-**Contact:** gortervoghormyan@gmail.com · [LinkedIn](https://www.linkedin.com/in/gor-vogormyan)
+**Contact:** gortervoghormyan@gmail.com · [LinkedIn](https://www.linkedin.com/in/gor-vogormyan) · [GitHub](https://github.com/gor-agi)
 
 ---
 
-## GitHub
+## Small tools (local-first)
 
-No public code repos I'd recommend using yet.
+Two paired experiments from my voice-memo pipeline — if they help you, use them; if not, ignore them.
 
-I'm cleaning up a small local tool for Apple Voice Memos — transcribe, classify, quarantine personal content before anything goes near a training pipeline. If it works well enough for strangers, I'll publish it. Otherwise I'll keep it private.
+| Repo | What it does |
+|------|----------------|
+| [person-borders](https://github.com/gor-agi/person-borders) | Inspect exports before they cross your border — person-as-country, not platform guardrails |
+| [living-glossary](https://github.com/gor-agi/living-glossary) | Propose definitions from your transcripts — alphabet layer before any AI shares your reality |
 
-Everything else here is operator setup tied to my own machines and clients — not meant as a showcase.
+Borders control what **crosses out**. Glossary controls what things **mean inside**. Both are MIT, CLI-only, no hosted service.
+
+Example pattern write-up: [Clarification Architecture](https://github.com/gor-agi/living-glossary/blob/main/examples/CLARIFICATION_ARCHITECTURE.md)
+
+---
+
+Everything else here is operator setup tied to my own machines — not meant as a showcase.
