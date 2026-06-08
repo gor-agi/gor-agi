@@ -1,28 +1,38 @@
 # Gor Vogormyan
 
-**Operator-researcher** — personal machine agency, CRE (Creation of Systems), multi-agent ops.
+**Operator-researcher** · personal machine agency · [CRE](https://x.com/MaysonFreeman) (Creation of Systems)
 
-Political science and systems background · Los Angeles
+Political science and systems · Los Angeles
 
 **Contact:** subs@agi-brain.com · [@MaysonFreeman](https://x.com/MaysonFreeman)
 
 ---
 
-## Focus
+## The problem
 
-- **Personal machine agency** — life-data LLMs, you in charge, benchmark consensus
-- **Narrative sovereignty** — *The Narrative of the Narratives* (CRE, Dec 2025)
-- **Governed agent infrastructure** — MCP, vault, conversation→training pipelines
+Frontier AI is building better **interfaces** — duplex interaction, fine-tuning, collaboration.
 
-## Research themes
+The missing layer is **agency**: whose machine, whose memory, whose intent, whose narrative.
 
-Thinking mechanisms over pre-training scale · concept models · truthseeking · purpose alignment
+I work on **personal machine agency** — AI that belongs to the person, mediates on their behalf, and preserves narrative sovereignty. Not a corporate copilot. Constitutional infrastructure.
 
 ---
 
-## Code
+## Public work
 
-Research and production repos are **private**. Available for hiring review on request.
+**The Narrative of the Narratives** (CRE · Dec 2025) — why personal AI must be owned infrastructure in an AI-native world, and how narrative sovereignty connects to human dignity and intent.
+
+Published via @MaysonFreeman on X. Mechanisms intentionally abstract.
+
+---
+
+## Direction
+
+- Machine intelligence closer to where **knowledge lives**
+- **Purpose-aligned** personal systems, not censorship-as-control
+- Institutions and governance, not hero-leader virtue
+
+Implementation is **private**. Structured review available for frontier labs and hiring.
 
 ---
 
