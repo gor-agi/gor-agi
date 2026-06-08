@@ -1,39 +1,19 @@
 # Gor Vogormyan
 
-**Operator-researcher** · personal machine agency · [CRE](https://x.com/MaysonFreeman) (Creation of Systems)
+Independent researcher · [CRE](https://x.com/MaysonFreeman) · Los Angeles
 
-Political science and systems · Los Angeles
+Political science background. I work on questions around personal AI ownership and narrative — mostly as notes and small home-lab experiments, not lab-scale infrastructure.
 
-**Contact:** subs@agi-brain.com · [@MaysonFreeman](https://x.com/MaysonFreeman)
+**Public writing:** [The Narrative of the Narratives](https://x.com/MaysonFreeman/status/2004751960390451420) (Dec 2025, @MaysonFreeman)
 
----
-
-## The problem
-
-Frontier AI is building better **interfaces** — duplex interaction, fine-tuning, collaboration.
-
-The missing layer is **agency**: whose machine, whose memory, whose intent, whose narrative.
-
-I work on **personal machine agency** — AI that belongs to the person, mediates on their behalf, and preserves narrative sovereignty. Not a corporate copilot. Constitutional infrastructure.
+**Contact:** gortervoghormyan@gmail.com · [LinkedIn](https://www.linkedin.com/in/gor-vogormyan)
 
 ---
 
-## Public work
+## GitHub
 
-**The Narrative of the Narratives** (CRE · Dec 2025) — why personal AI must be owned infrastructure in an AI-native world, and how narrative sovereignty connects to human dignity and intent.
+No public code repos I'd recommend using yet.
 
-Published via @MaysonFreeman on X. Mechanisms intentionally abstract.
+I'm cleaning up a small local tool for Apple Voice Memos — transcribe, classify, quarantine personal content before anything goes near a training pipeline. If it works well enough for strangers, I'll publish it. Otherwise I'll keep it private.
 
----
-
-## Direction
-
-- Machine intelligence closer to where **knowledge lives**
-- **Purpose-aligned** personal systems, not censorship-as-control
-- Institutions and governance, not hero-leader virtue
-
-Implementation is **private**. Structured review available for frontier labs and hiring.
-
----
-
-*Building systems that remember who they serve.*
+Everything else here is operator setup tied to my own machines and clients — not meant as a showcase.
